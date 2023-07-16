@@ -1,3 +1,3 @@
 # Concurrencia y Canales
-# Aplicación en Go para realuizar comprobación de disponibilidad de servidores
+# Aplicación en Go para realizar comprobación de disponibilidad de servidores
 
